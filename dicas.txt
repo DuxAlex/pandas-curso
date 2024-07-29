@@ -1,0 +1,9 @@
+Sim, o VS Code oferece um recurso similar ao Jupyter Notebook para visualizar as funções e a documentação 
+inline. No VS Code, ao usar um Jupyter Notebook, você pode usar os seguintes atalhos:
+
+- **Ctrl + I**: Mostra a documentação da função ou método.
+- **Ctrl + Espaço**: Ativa a sugestão de código, mostrando funções e métodos disponíveis.
+- **Shift + Tab**: Assim como no Jupyter Notebook, mostra a documentação da função ou método.
+
+Esses atalhos ajudam a visualizar as funções disponíveis e suas respectivas documentações diretamente no 
+VS Code enquanto você está trabalhando em um notebook Jupyter.
